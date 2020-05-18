@@ -2,10 +2,10 @@
 // 1   --  生活
 // 2   --  学习
 
-enum Category{
-    Work = 0,
-    Life = 1,
-    Stydy = 2
+enum Category {
+	Work = 0,
+	Life = 1,
+	Stydy = 2,
 }
 
-export default Category
+export default Category;
